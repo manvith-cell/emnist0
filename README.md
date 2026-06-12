@@ -1,0 +1,2 @@
+# emnist0
+EMNIST MODEL
